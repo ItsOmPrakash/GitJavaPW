@@ -14,7 +14,7 @@ public class Conditional_statements02 {
        else if (age > 60 || age < 100)
        System.out.println("you are now a old man and you will die soon");
        else
-       System.out.println("No word for you lengend");
+       System.out.println("No word for you are a lengend");
 
     }
 }
